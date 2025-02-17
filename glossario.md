@@ -1,4 +1,4 @@
-# Glossário<br>
+# Glossário<br><br>
 
 ## Banco de dados e a relação com sistema gerenciador de banco de dados (SGBD)<br>
 O banco de dados é uma coleção organizada de dados, armazenados de forma estruturada para facilitar seu acesso e manipulação.<br>
