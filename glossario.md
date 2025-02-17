@@ -19,3 +19,9 @@ Micro serviço é uma arquitetura de software que divide uma aplicação em pequ
 Esses serviços se comunicam entre si por meio de APIs e podem ser desenvolvidos, implantados e escalados de forma autônoma, o que favorece a flexibilidade, a escalabilidade e a manutenção.<br>
 Essa abordagem permite maior agilidade no desenvolvimento, pois as equipes podem trabalhar em diferentes partes do sistema sem interferir nas demais.<br>
 <br>
+
+## Software as a Service (SaaS)<br>
+SaaS é um modelo de distribuição de software onde a aplicação é hospedada na nuvem e acessada pela internet, sem necessidade de instalação local.<br>
+Os usuários pagam uma assinatura para utilizar o software, enquanto o provedor gerencia a manutenção, atualizações e infraestrutura.<br>
+Exemplos incluem Google Workspace, Microsoft 365 e Salesforce, oferecendo conveniência, escalabilidade e custos reduzidos.<br>
+<br>
